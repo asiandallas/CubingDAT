@@ -1,0 +1,5 @@
+hall04 Kyrstn 3x3 9.58
+hall04 Kyrstn 2x2 1.40
+hall04 Kyrstn Skewb 8.27
+nguyen05 Kyle Megaminx 50.75
+park11 3x3 3.63

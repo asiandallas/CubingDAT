@@ -1,0 +1,169 @@
+~/CubingDAT$ g++ *.cpp
+~/CubingDAT$ ./a.out
+Welcome to CubingDAT. This app is designed to record a user's main speedcubing events and their best single
+What is the input file? (.txt file) input.txt
+0:[ empty ]
+1:[ empty ]
+2:[ empty ]
+3:[ empty ]
+4:[ empty ]
+5:[ empty ]
+6:[ empty ]
+7:[ empty ]
+8:[ empty ]
+9:[ empty ]
+10:[ park11 3x3 3.63 50.75 ]
+11:[ empty ]
+12:[ empty ]
+13:[ empty ]
+14:[ empty ]
+15:[ empty ]
+16:[ empty ]
+17:[ empty ]
+18:[ empty ]
+19:[ empty ]
+20:[ empty ]
+21:[ empty ]
+22:[ empty ]
+23:[ nguyen05 Kyle Megaminx 50.75 ]
+24:[ empty ]
+25:[ empty ]
+26:[ empty ]
+27:[ empty ]
+28:[ empty ]
+29:[ empty ]
+30:[ empty ]
+31:[ empty ]
+32:[ empty ]
+33:[ empty ]
+34:[ empty ]
+35:[ empty ]
+36:[ hall04 Kyrstn 3x3 9.58 hall04 Kyrstn 2x2 1.4 hall04 Kyrstn Skewb 8.27 ]
+
+MENU: ---- 
+1 Add an element
+2 Find an element
+3 Delete an element
+4 Display the table
+5 Save the table to a file
+6 Quit
+1
+
+What is the key to add? Lee25
+What is the name? Kevin
+What event? 7x7
+What is your best time? 170.11
+Added the element in slot 11
+MENU: ---- 
+1 Add an element
+2 Find an element
+3 Delete an element
+4 Display the table
+5 Save the table to a file
+6 Quit
+2
+
+What is the key to find? hall04
+Found this:
+hall04 Kyrstn 3x3 9.58
+MENU: ---- 
+1 Add an element
+2 Find an element
+3 Delete an element
+4 Display the table
+5 Save the table to a file
+6 Quit
+3
+
+What is the key to find? hall04
+Found it and deleted it from slot: 36
+MENU: ---- 
+1 Add an element
+2 Find an element
+3 Delete an element
+4 Display the table
+5 Save the table to a file
+6 Quit
+4
+
+The current contents are: 
+0:[ empty ]
+1:[ empty ]
+2:[ empty ]
+3:[ empty ]
+4:[ empty ]
+5:[ empty ]
+6:[ empty ]
+7:[ empty ]
+8:[ empty ]
+9:[ empty ]
+10:[ park11 3x3 3.63 50.75 ]
+11:[ Lee25 Kevin 7x7 170.11 ]
+12:[ empty ]
+13:[ empty ]
+14:[ empty ]
+15:[ empty ]
+16:[ empty ]
+17:[ empty ]
+18:[ empty ]
+19:[ empty ]
+20:[ empty ]
+21:[ empty ]
+22:[ empty ]
+23:[ nguyen05 Kyle Megaminx 50.75 ]
+24:[ empty ]
+25:[ empty ]
+26:[ empty ]
+27:[ empty ]
+28:[ empty ]
+29:[ empty ]
+30:[ empty ]
+31:[ empty ]
+32:[ empty ]
+33:[ empty ]
+34:[ empty ]
+35:[ empty ]
+36:[ hall04 Kyrstn 2x2 1.4 hall04 Kyrstn Skewb 8.27 ]
+MENU: ---- 
+1 Add an element
+2 Find an element
+3 Delete an element
+4 Display the table
+5 Save the table to a file
+6 Quit
+3
+
+What is the key to find? hall04
+Found it and deleted it from slot: 36
+MENU: ---- 
+1 Add an element
+2 Find an element
+3 Delete an element
+4 Display the table
+5 Save the table to a file
+6 Quit
+3
+
+What is the key to find? hdsjd
+Not found!
+MENU: ---- 
+1 Add an element
+2 Find an element
+3 Delete an element
+4 Display the table
+5 Save the table to a file
+6 Quit
+5
+
+Saved the updated table in newout.txt
+MENU: ---- 
+1 Add an element
+2 Find an element
+3 Delete an element
+4 Display the table
+5 Save the table to a file
+6 Quit
+6
+
+bye, happy cubing :)
+~/CubingDAT$ 
