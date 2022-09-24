@@ -1,0 +1,4 @@
+park11 3x3 3.63 50.75
+Lee25 Kevin 7x7 170.11
+nguyen05 Kyle Megaminx 50.75
+hall04 Kyrstn Skewb 8.27
